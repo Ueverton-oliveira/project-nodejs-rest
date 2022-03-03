@@ -1,0 +1,19 @@
+{
+  "name": "project-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ueverton-oliveira/project-nodejs-rest.git"
+  },
+  "author": "ueverton oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ueverton-oliveira/project-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/Ueverton-oliveira/project-nodejs-rest#readme"
+}
